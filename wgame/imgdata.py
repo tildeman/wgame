@@ -1,0 +1,12 @@
+nh='That\'s obvious. Look again?'
+nch='What is the color of the image?'
+l1=(('cow',nh),('pig',nh),('sheep',nh),('chicken',nh))
+l2=(('mountain',nh),('ocean',nh),('lake',nh),('river',nh))
+l3=(('apple',nh),('banana',nh),('orange',nh),('pineapple',nh))
+l4=(('blue',nch),('green',nch),('red',nch),('white',nch))
+l5=(('feet','Use plural,please!'),('hand','There are 5 (people may say 6) fingers there.'),('head','Don\'t say it\'s Minecraft'),('neck','A part that connects head with body'))
+l6=(('angry','WHY CAN\'T YOU JUST ANSWER CORRECTLY???'),('happy','Many people will advise this.'),('sad','Adjective for synonym of misery'),('surprised','OMG! THAT IS WRONG'))
+l7=(('earth','That\'s where gravity pulls us in'),('mars','Right next to us!'),('moon','Shining beautifully for us'),('sun','If you come too close, You\'ll melt to death :)'))
+l8=(('brown','aka. Dark Orange'),('pink','Including magenta'),('purple','Not violet'),('yellow','Not gold!'))
+l9=(('cherry','Topping for your cake'),('dragonfruit','A white core with black dots'),('eggplant','An egg tree!'),('grape','Sometimes it\s purple'))
+l10=(('brain','You use this to sleep'),('heart','Pumping for eternity'),('kidney','Filters the stuff in your blood'),('liver','Filters the stuff in your gut'))
