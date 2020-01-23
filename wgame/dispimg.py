@@ -51,4 +51,4 @@ def display(imgdir,cans,hint,rnum='__test__'):
     fdest()
     t.mainloop()
 if __name__=='__main__':
-    print(display('img\\__test__\\cow.gif','cow',':|'))
+    print(display('__test__\\cow.gif','cow',':|'))
